@@ -30,6 +30,3 @@ This project is suitable for:
 - **Matplotlib**
 - **Jupyter Notebook**
 
----
-
-## 📂 Project Structure
